@@ -25,22 +25,6 @@ This repository provides a comprehensive implementation of genetic algorithms fo
 4. **Visualization**  
    - Real-time plotting of routes and fitness progress during the genetic algorithm's execution.
 
-## Usage
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo/cvrp-genetic-algorithm.git
-   cd cvrp-genetic-algorithm
-   ```
-
-2. Open the notebook in Jupyter or Colab:  
-   ```bash
-   jupyter notebook Gene2c\ Algorithm\ Solu2ons\ to\ Capacitated\ Vehicle\ Rou2ng\ Problem.ipynb
-   ```
-
-3. Explore the PDF for a detailed explanation of the code:  
-   Open `coding.pdf` in any PDF viewer.
-
 ## Prerequisites
 
 - Python 3.x
