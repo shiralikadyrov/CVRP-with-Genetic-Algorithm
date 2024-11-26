@@ -4,7 +4,7 @@ This repository provides a comprehensive implementation of genetic algorithms fo
 
 ## Repository Contents
 
-- `Gene2c Algorithm Solu2ons to Capacitated Vehicle Rou2ng Problem.ipynb`  
+- `Genetic_Algorithm_Solutions_to_Capacitated_Vehicle_Routing_Problem (1).ipynb`  
   A Jupyter Notebook containing the Python implementation of genetic algorithms for CVRP.
 
 ## Key Features
