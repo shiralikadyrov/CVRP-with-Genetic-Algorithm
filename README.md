@@ -1,7 +1,3 @@
-Here is a suggested README file text for your GitHub repository containing the Jupyter Notebook code and its corresponding PDF version:
-
----
-
 # Genetic Algorithm Solutions for Capacitated Vehicle Routing Problem (CVRP)
 
 This repository provides a comprehensive implementation of genetic algorithms for solving the **Capacitated Vehicle Routing Problem (CVRP)**. The code is designed to model and optimize logistics problems by simulating natural selection processes. A PDF version of the code is included for offline reference.
