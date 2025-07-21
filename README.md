@@ -41,4 +41,3 @@ This project implements ideas from the article *"Route Splitting and Adaptive Mu
 
 ---
 
-You can modify this text to include additional details like your contact information or specific instructions for contributors.
